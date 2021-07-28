@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213503759315",
+    "project_id": "notificaciones-esp32",
+    "storage_bucket": "notificaciones-esp32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213503759315:android:2658286bd54e28962c5526",
+        "android_client_info": {
+          "package_name": "axell.proyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213503759315-nt2ca2mg3tfi9bis9q69hmcsotdo829e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ_Fk2zvmMi6z7q53cNdWW04glFNyTHTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213503759315-nt2ca2mg3tfi9bis9q69hmcsotdo829e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
